@@ -49,21 +49,15 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache last-modified="0" />
-      <npm-package value="\usr\local\lib\node_modules\npm" />
-    </local-interpreter>
-    <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="6.1.0" last-modified="1462479634000" />
-    </local-interpreter>
-    <local-interpreter path="C:/usr/local/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="6.1.0" last-modified="1467635113000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.2/bin/node">
-      <version-cache last-modified="0" />
+      <version-cache version="0.12.2" last-modified="1427841160000" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1463238625662" />
-    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.2/bin/node" version="(Does not exist)" last-modified="1463238625662" />
+    <node-interpreter path="/usr/local/bin/node" version="4.2.2" last-modified="1463473977000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.2/bin/node" version="0.12.2" last-modified="1427841160000" />
   </component>
 </application>
