@@ -1,5 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ custom" parent="Mac OS X 10.5+">
   <action id="CheckinProject" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
