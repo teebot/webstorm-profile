@@ -12,7 +12,6 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.js</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -34,6 +33,7 @@
       <mask>!</mask>
       <mask>*</mask>
       <mask>*.html</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
