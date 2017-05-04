@@ -26,14 +26,14 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.htpl</mask>
+      <mask>*.htp</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
-      <mask>*.htpl</mask>
-      <mask>*.htp</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
